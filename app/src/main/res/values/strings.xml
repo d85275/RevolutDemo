@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">RevolutDemo</string>
+    <string name="rates">Rates</string>
+    <string name="data_url">https://revolut.duckdns.org/latest?base=EUR</string>
+    <string name="amount_hint">0</string>
+
+
+    <string name="loading">Loading&#8230;</string>
+    <string name="no_network">No network connection, please try again.</string>
+    <string name="error">Something went wrong, please try again.</string>
+    <string name="error_title">Error</string>
+    <string name="bt_retry">Retry</string>
+    <string name="bt_cancel">Cancel</string>
+
+    <!-- Currency Lis -->
+    <string name="EUR_des">Euro</string>
+    <string name="AUD_des">Australian Dollar</string>
+    <string name="BGN_des">Bulgarian Lev</string>
+    <string name="BRL_des">Brazilian Real</string>
+    <string name="CAD_des">Canadian Dollar</string>
+    <string name="CHF_des">Swiss Franc</string>
+    <string name="CNY_des">Renminbi</string>
+    <string name="CZK_des">Czech Koruna</string>
+    <string name="DKK_des">Danish Krone</string>
+    <string name="GBP_des">Pound Sterling</string>
+    <string name="HKD_des">Hong Kong Dollar</string>
+    <string name="HRK_des">Croatian Kuna</string>
+    <string name="HUF_des">Hungarian Forint</string>
+    <string name="IDR_des">Indonesian Rupiah</string>
+    <string name="ILS_des">Israeli New Shekel</string>
+    <string name="INR_des">Indian Rupee</string>
+    <string name="ISK_des">Icelandic Króna</string>
+    <string name="JPY_des">Japanese Yen</string>
+    <string name="KRW_des">South Korean Won</string>
+    <string name="MXN_des">Mexican Peso</string>
+    <string name="MYR_des">Malaysian Ringgit</string>
+    <string name="NOK_des">Norwegian Krone</string>
+    <string name="NZD_des">New Zealand Dollar</string>
+    <string name="PHP_des">Philippine Peso</string>
+    <string name="PLN_des">Polish Złoty</string>
+    <string name="RON_des">Romanian Leu</string>
+    <string name="RUB_des">Russian Ruble</string>
+    <string name="SEK_des">Swedish Krona</string>
+    <string name="SGD_des">Singapore Dollar</string>
+    <string name="THB_des">Thai Baht</string>
+    <string name="TRY_des">Turkish Lira</string>
+    <string name="USD_des">US Dollar</string>
+    <string name="ZAR_des">South African Rand</string>
+</resources>
